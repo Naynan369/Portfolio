@@ -21,7 +21,9 @@ header{
     background-image: url('code.jpg');
     padding-bottom: 20px;
 }
-
+.home img{
+    border-radius: 50%;
+}
 .nav{
     /* height: 50px; */
     display: grid;
