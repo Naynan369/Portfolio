@@ -18,7 +18,7 @@ header{
     background-color: #696969;
 }
 .background{
-    background-image: url('./assets/code.jpg');
+    background-image: url('code.jpg');
     padding-bottom: 20px;
 }
 
