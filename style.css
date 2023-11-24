@@ -10,8 +10,6 @@ body{
     font-family: 'Fira Code', monospace;
 }
 
-
-
 header{
     position: fixed;
     top: 0;
@@ -20,7 +18,7 @@ header{
     background-color: #696969;
 }
 .background{
-    background-image: url('code.jpg');
+    background-image: url('./assets/code.jpg');
     padding-bottom: 20px;
 }
 
